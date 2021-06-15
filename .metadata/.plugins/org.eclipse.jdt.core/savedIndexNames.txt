@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Paulo_Pereira\Desktop\Curso_Java\Microserviço_Cloud_Boot_Docker\paulo-microservice\.metadata\.plugins\org.eclipse.jdt.core
+1650449417.index
