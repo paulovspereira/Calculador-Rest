@@ -102,3 +102,6 @@ org.eclipse.swt.SWTException: Widget is disposed
 !ENTRY org.apache.log4j 2 0 2021-06-15 15:15:20.961
 !MESSAGE org.springsource.ide.eclipse.commons.core.templates.TemplateProcessor  - May have failed to replace token 		//The dummy helps preview/test the page in an external browser.
 
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-06-15 15:31:04.269
+!MESSAGE No repository found at https://dl.bintray.com/de-jcup/sqleditor.
